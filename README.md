@@ -9,14 +9,17 @@ Today we'll learn:
 - How do we write CSS, HTML and JS?
 
 ### Lesson Materials
-[codepen.io](https://codepen.io/)
+<a href="https://codepen.io/" target="_blank">CodePen</a>
 
 HTML Code 
+
 CSS Code
+
 JS Code
 
 ### Resources
 [Web Dev Workshop Slides](https://docs.google.com/presentation/d/18855g9ClPmPGY9TMZHB0-awTamZy67W6o4C3bkO0Jt4/edit?usp=sharing)
+
 [List of CSS properties](https://www.w3schools.com/cssref/) 
 
 ### Contact
