@@ -13,9 +13,9 @@ Today we'll learn:
 
 [HTML Code](https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.html) 
 
-CSS Code
+[CSS Code](https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.css) 
 
-JS Code
+[JS Code](https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.js) 
 
 ### Resources
 [Web Dev Workshop Slides](https://docs.google.com/presentation/d/18855g9ClPmPGY9TMZHB0-awTamZy67W6o4C3bkO0Jt4/edit?usp=sharing)
