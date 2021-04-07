@@ -1,0 +1,22 @@
+h1 {
+  font-size: 1.5em;
+}
+
+button {
+  background: #4285f4ff;
+  color: #FFFFFF;
+  border: none;
+  padding: 0.8em 1.2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+}
+
+input {
+  padding: 0.7em;
+}
+
+p {
+  background: #fff7cc;
+  padding: 0.5em 0;
+}
