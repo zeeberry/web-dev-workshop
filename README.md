@@ -11,7 +11,7 @@ Today we'll learn:
 ### Lesson Materials
 <a href="https://codepen.io/" target="_blank">CodePen</a>
 
-HTML Code 
+[HTML Code](https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.html) 
 
 CSS Code
 
