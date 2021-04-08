@@ -31,7 +31,7 @@ JS Code: https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.js
 CSS Code: https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.css
 
 
-### Other Resources
+## Other Resources
 
 List of HEX Colors: https://htmlcolorcodes.com/colors/
 
@@ -41,7 +41,7 @@ List of CSS Properties: https://www.w3schools.com/cssref/default.asp
 
 How-to JS: https://www.w3schools.com/js/js_examples.asp
 
-### Contact
+## Contact
 Reach out to me:
 - If you want to go to college, get a CS degree and have questions
 - If you want to join a coding bootcamp and have questions
