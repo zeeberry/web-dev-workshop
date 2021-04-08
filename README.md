@@ -24,22 +24,22 @@ CSS Code: https://github.com/zeeberry/web-dev-workshop/blob/main/guided.css
 
 ### Independent Practice: Outfit Picker
 
-HTML Code: https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.html
+HTML Code: [github.com/zeeberry/web-dev-workshop/workshop.html](https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.html)
 
-JS Code: https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.js
+JS Code: [github.com/zeeberry/web-dev-workshop/workshop.js](https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.js)
 
-CSS Code: https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.css
+CSS Code: [github.com/zeeberry/web-dev-workshop/workshop.css](https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.css)
 
 
 ## Other Resources
 
-List of HEX Colors: https://htmlcolorcodes.com/colors/
+List of HEX Colors: [htmlcolorcodes.com/colors](https://htmlcolorcodes.com/colors/)
 
-List of HTML Tags: https://www.w3schools.com/tags/default.asp
+List of HTML Tags: [w3schools.com/tags](https://www.w3schools.com/tags/default.asp)
 
-List of CSS Properties: https://www.w3schools.com/cssref/default.asp
+List of CSS Properties: [w3schools.com/cssref](https://www.w3schools.com/cssref/default.asp)
 
-How-to JS: https://www.w3schools.com/js/js_examples.asp
+How-to JS: [w3schools.com/js_examples](https://www.w3schools.com/js/js_examples.asp)
 
 ## Contact
 Reach out to me:
