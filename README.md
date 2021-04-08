@@ -8,21 +8,38 @@ Today we'll learn:
 - What is CSS, HTML and JS?
 - How do we write CSS, HTML and JS?
 
-### Lesson Materials
+## Lesson Materials
 [Slides](https://docs.google.com/presentation/d/18855g9ClPmPGY9TMZHB0-awTamZy67W6o4C3bkO0Jt4/edit?usp=sharing)
 
 <a href="https://codepen.io/" target="_blank">CodePen</a>
 
-[HTML Code](https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.html) 
+### Guided Practice
 
-[CSS Code](https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.css) 
+HTML Code: https://github.com/zeeberry/web-dev-workshop/blob/main/guided.html
 
-[JS Code](https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.js) 
+JS Code: https://github.com/zeeberry/web-dev-workshop/blob/main/guided.js
+
+CSS Code: https://github.com/zeeberry/web-dev-workshop/blob/main/guided.css
+
+
+### Independent Practice: Outfit Picker
+
+HTML Code: https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.html
+
+JS Code: https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.js
+
+CSS Code: https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.css
+
 
 ### Other Resources
-[List of HTML Tags](https://www.w3schools.com/tags/default.asp)
 
-[List of CSS properties](https://www.w3schools.com/cssref/) 
+List of HEX Colors: https://htmlcolorcodes.com/colors/
+
+List of HTML Tags: https://www.w3schools.com/tags/default.asp
+
+List of CSS Properties: https://www.w3schools.com/cssref/default.asp
+
+How-to JS: https://www.w3schools.com/js/js_examples.asp
 
 ### Contact
 Reach out to me:
