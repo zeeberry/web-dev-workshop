@@ -15,20 +15,20 @@ Today we'll learn:
 
 ### Guided Practice
 
-HTML Code: https://github.com/zeeberry/web-dev-workshop/blob/main/guided.html
+HTML Code: [github.com/web-dev/guided.html](https://github.com/zeeberry/web-dev-workshop/blob/main/guided.html)
 
-JS Code: https://github.com/zeeberry/web-dev-workshop/blob/main/guided.js
+JS Code: [github.com/web-dev/guided.js](https://github.com/zeeberry/web-dev-workshop/blob/main/guided.js)
 
-CSS Code: https://github.com/zeeberry/web-dev-workshop/blob/main/guided.css
+CSS Code: [github.com/web-dev/guided.css](https://github.com/zeeberry/web-dev-workshop/blob/main/guided.css)
 
 
 ### Independent Practice: Outfit Picker
 
-HTML Code: [github.com/zeeberry/web-dev-workshop/workshop.html](https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.html)
+HTML Code: [github.com/web-dev/workshop.html](https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.html)
 
-JS Code: [github.com/zeeberry/web-dev-workshop/workshop.js](https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.js)
+JS Code: [github.com/web-dev/workshop.js](https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.js)
 
-CSS Code: [github.com/zeeberry/web-dev-workshop/workshop.css](https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.css)
+CSS Code: [github.com/web-dev/workshop.css](https://github.com/zeeberry/web-dev-workshop/blob/main/workshop.css)
 
 
 ## Other Resources
